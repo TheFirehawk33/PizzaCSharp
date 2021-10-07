@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lotfi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lotfi\\.nuget\\packages"
+    ]
+  }
+}
